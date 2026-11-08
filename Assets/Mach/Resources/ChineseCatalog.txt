@@ -1,0 +1,341 @@
+Carry {carry} by its round knob to the red/orange pad farther ahead. Press E to confirm placement.	对准 {carry} 的圆形搬运按钮，按 E 拿起，将它搬到前方的红橙色区域，再按 E 确认放置。
+WASD moves; mouse looks around. No walking checkpoint is needed.	使用 WASD 移动、鼠标转动视角，无须前往额外的行走检查点。
+Select A with the wheel and hit WHITE BLOCK 1. Recall A.	滚轮选择 A，射向白色方块 1；随后瞄准信标，按 E 回收 A。
+Select B and hit WHITE BLOCK 2 on the higher platform.	选择 B，射向高处平台上的白色方块 2。
+Add DRIVING A. Connect START to DRIVING and A to PARAM. Press CHECK.	添加“行驶”和标点 A，将“开始”连接到“行驶”，再把 A 接入参数端口，按“检查”。
+This lesson requires CHECK before docking. Re-check if you change the circuit.	本关必须先通过检查才能插入平板。修改电路后需要重新检查。
+Insert the tablet with E; watch the robot reach A.	按 E 插入平板，观察机器人到达 A。
+A Driving circuit is prepared. Add FACING A between START and DRIVING.	已有一条行驶电路。请在“开始”和“行驶”之间加入“朝向”，目标设为 A。
+Connect START to FACING to replace the old wire, then FACING to DRIVING. A goes to both PARAM inputs.	把“开始”连向“朝向”以替换旧线，再把“朝向”连接到“行驶”。将 A 分别接入两个模块的参数端口。
+CHECK, dock, and watch it aim then drive to A.	检查电路并插入平板，观察机器人先瞄准、再驶向 A。
+Build START > FIRE. Set AMMO to BURST and RATE to MID.	连接“开始 → 开火”，选择爆裂弹（BURST）和中等射速。
+Connect both parameters to FIRE, then CHECK and dock.	将弹药与射速两个参数都连到“开火”，检查后插入平板。
+The robot must fire using BURST at MED rate.	机器人需要以中等射速发射爆裂弹。
+The robot must fire using BURST at MID rate.	机器人需要以中等射速发射爆裂弹。
+Use the machines to add and connect:	使用机器添加模块，并连接：
+Connect the prepared actions:	连接以下动作：
+Use POINT A, AP ammo, HIGH rate and 2 seconds.	使用标点 A、穿甲弹（AP）、高射速和 2 秒等待时间。
+CHECK and dock. It must fire, wait 2 seconds, then stop.	检查并插入平板。机器人需要开始射击，等待 2 秒，再停火。
+Pack every machine into the tray. Carry the tray to the truck bed and press E to attach.	将全部机器装入底板，再把底板搬到车斗，按 E 装车。
+Open the door and enter the driver's seat.	打开车门，进入驾驶座。
+Unload the tray and unpack all equipment. Build your circuit, CHECK, then dock.	卸下底板并展开全部装备。搭建电路，通过检查后插入平板。
+Use the transparent route to plan your defense. Press ENGAGE and defeat 5 ghosts.	参考透明路径布置防守，按“迎战”，消灭 5 个幽灵。
+Complete this test to enter the main game.	完成测试后进入正式游戏。
+Place {carry} on the marked pad	把 {carry} 放到指定区域
+Launch A onto white block 1	将 A 发射到白色方块 1
+Launch B onto white block 2	将 B 发射到白色方块 2
+Recall A	回收 A
+Build Driving A and CHECK	搭建驶向 A 的电路并通过检查
+Insert tablet into robot	把平板插入机器人
+Robot reaches A	机器人到达 A
+Insert FACING between START and DRIVING	在开始与行驶之间加入朝向模块
+CHECK the modified circuit	检查修改后的电路
+Robot aims, then reaches A	机器人先瞄准，再到达 A
+Connect BURST ammo	连接爆裂弹参数
+Connect MED rate	连接中等射速参数
+Connect MID rate	连接中等射速参数
+Complete circuit and CHECK	完成电路并通过检查
+Robot fires BURST at MED rate	机器人以中等射速发射爆裂弹
+Robot fires BURST at MID rate	机器人以中等射速发射爆裂弹
+Connect AP ammo	连接穿甲弹参数
+Connect HIGH rate	连接高射速参数
+Set WAIT to 2 seconds	设置等待时间为 2 秒
+Fire, wait, then cease fire	开火，等待，再停火
+Pack all equipment into tray	将全部装备装入底板
+Attach loaded tray to truck	把装满装备的底板装车
+Enter driver's seat	进入驾驶座
+Unload tray and unpack all equipment	卸下底板，展开全部装备
+Build circuit and CHECK	搭建电路并通过检查
+ENGAGE the wave	按迎战开始战斗
+Defeat all 5 enemies	消灭全部 5 个敌人
+Press CHECK on the completed Driving circuit before docking. Re-check after changing wires.	先完成行驶电路并按“检查”，再插入平板。修改连线后请重新检查。
+CHECK: use this lesson's required actions and parameters.	检查：请使用本关要求的动作和参数。
+Check the required circuit and parameters.	请核对本关要求的电路和参数。
+The base was lost. Deploy and check your robot before engaging.	基地已被摧毁。请在迎战前部署机器人并检查电路。
+You left the training area.	你离开了训练区域。
+Practice time ended.	本次练习时间已结束。
+Choose the other port.	请选择另一端口。
+Wire cancelled.	已取消连线。
+Connect an output to a matching input.	请将输出连接到对应的输入端口。
+Remove the tablet before clearing the circuit.	请先取下平板，再清空电路。
+Circuit cleared. START retained.	已清空电路，保留开始模块。
+Remove the tablet from the robot first.	请先从机器人取下平板。
+Board full. Delete a block before collecting more.	平板已满，请先删除模块。
+Duration -> Wait; Point -> Facing/Drive To; Rate or Ammo -> Fire.	时长 → 等待；标点 → 朝向或行驶；射速和弹药 → 开火。
+Parameter blocks connect to an action's yellow PARAM input.	参数模块需要连接到动作模块的黄色参数输入端口。
+Parameter connected.	参数已连接。
+Execution wire connected.	执行线路已连接。
+Block deleted.	模块已删除。
+Selected block wires cleared.	已清除所选模块的连线。
+Tablet removed. Program stopped.	已取下平板，程序已停止。
+Drop the carried item before inserting the tablet.	请先放下搬运中的物品，再插入平板。
+Connect START to an action.	请将开始模块连接到一个动作。
+Execution wire points to a missing block.	执行线路连接的模块不存在。
+Parameters cannot be in the execution path.	参数不能接在执行线路中。
+needs a Point DATA wire.	需要连接标点参数。
+WAIT needs a valid Duration PARAM.	等待模块需要有效的时长参数。
+Invalid rate wire.	射速参数连线无效。
+Invalid ammo wire.	弹药参数连线无效。
+FIRE needs its own AMMO parameter.	开火模块需要连接弹药参数。
+FIRE needs its own valid RATE parameter.	开火模块需要连接有效的射速参数。
+AMMO and RATE required	需要弹药和射速参数
+Facing needs a Point	朝向模块需要标点
+Drive To needs a Point	行驶模块需要标点
+WAIT needs Duration PARAM	等待模块需要时长参数
+Robot ground motor missing	机器人缺少地面移动组件
+Drive path blocked	行驶路径被阻挡
+Point must use a DATA wire	标点必须使用参数连线
+Missing block	模块不存在
+Need two free slots for Wait and Duration.	添加等待和时长模块需要两个空位。
+Wait for vehicle to stop	请等待车辆停稳
+Stop vehicle / clear an exit before leaving	请先停车，并确保下车位置没有障碍
+Close door  |  [E] Enter driver seat	关闭车门  |  [E] 进入驾驶座
+Open driver door	打开驾驶室车门
+Remove tablet / stop program	取下平板 / 停止程序
+Insert tablet / run circuit	插入平板 / 执行电路
+Pack into equipment rack	收进装备箱
+Hold LMB + move up/down	按住左键，上下移动调整高度
+Confirm fire rate	确认射速
+Change fire rate	切换射速
+Select ammunition	选择弹药
+Previous ammunition	上一种弹药
+Next ammunition	下一种弹药
+Increase seconds	增加秒数
+Decrease seconds	减少秒数
+Add Wait and Duration	添加等待与时长
+Previous beacon	上一个信标
+Next beacon	下一个信标
+Select Facing	选择朝向
+Select Driving	选择行驶
+Confirm to tablet	确认并添加到平板
+to tablet	到平板
+Recall Point	回收标点
+Pick up	拿起
+Aim at ground	请瞄准地面
+Surface is too steep	表面坡度太陡
+No support under base	底部没有支撑
+Base spans different supports	底板跨越了不同的支撑物
+Placement is out of reach	放置位置超出距离
+View blocked by	视线被阻挡：
+Blocked by	被物体阻挡：
+Robot has no solid collider	机器人缺少实体碰撞体
+Not enough room above ground	地面上方空间不足
+NO DEFENSE LINK	未连接防御系统
+BASE UNAVAILABLE	基地不可用
+PREPARING DEFENSE	正在准备防御
+ENGAGEMENT ACTIVE	战斗进行中
+BASE DESTROYED	基地已被摧毁
+HOME BASE	基地
+BASE LOST	基地失守
+AWAITING ENGAGEMENT	等待迎战
+GHOST SPAWNER	幽灵刷怪笼
+NO MONSTER	未设置怪物
+REMOVE TABLET FIRST	请先取下平板
+BEACON UNAVAILABLE	信标不可用
+TABLET FULL	平板已满
+ADDED / CONNECT ON TABLET	已添加 / 请在平板连线
+PRESS GREEN KEY TO ADD	按绿色按钮添加
+SELECT / CONFIRM	选择 / 确认
+PENDING / PRESS CONFIRM	待确认 / 请按确认
+PREVIEW / SELECT TO CONFIRM	预览 / 选择以确认
+PREVIEW  /  SELECT TO CONFIRM	预览 / 选择以确认
+ROBOT RUNNING	机器人运行中
+PROGRAM END / FIRING	程序结束 / 持续射击
+PROGRAM END	程序结束
+REMOTE CEASE FIRE / LATCHED	遥控停火 / 已锁定
+TARGET DATA	目标参数
+BASIC INTERACTION	基础交互
+LAUNCH BEACONS	发射标点
+ADVANCED ROBOT SHOOTING	机器人射击进阶
+ROBOT SHOOTING	机器人射击
+ROBOT DRIVING	机器人行驶
+ROBOT FACING	机器人朝向
+PACK AND TRANSPORT	装箱与运输
+FINAL TEST	最终测试
+START FIRING	开始射击
+CEASE FIRE	停火
+CEASEFIRE	停火
+DRIVE TO	行驶
+DRIVETO	行驶
+FIRE RATE	射速
+AMMO TYPE	弹药类型
+CLEAR ALL	清空全部
+CIRCUIT READY	电路就绪
+EQUIPMENT RACK	装备箱
+FIRE CONTROL	射击控制
+AMMO MACHINE	弹药机
+FIRE CONSOLE	射击机
+TIMER CONSOLE	计时机
+FACING CONSOLE	朝向机
+DRIVING CONSOLE	行驶机
+TRACKED ROBOT	履带机器人
+selected machine	所选机器
+WHITE BLOCK	白色方块
+REOPEN GUIDE	重新打开指引
+HOLD LMB	按住左键
+LMB	左键
+RMB	右键
+MOUSE	鼠标
+SCROLL	滚轮
+REQUIREMENTS	本关目标
+PARAMETER	参数
+PARAM	参数
+START	开始
+FACING	朝向
+DRIVING	行驶
+FIRE	开火
+CEASE	停止
+WAIT	等待
+DURATION	时长
+AMMO	弹药
+RATE	射速
+POINT	标点
+JHP	空尖弹
+AP	穿甲弹
+BURST	爆裂弹
+ACID	酸蚀弹
+THUNDER	雷电弹
+HIGH	高速
+MID	中速
+MED	中速
+LOW	低速
+CHECK	检查
+UNLINK	断开
+CLEAR	清除
+DELETE	删除
+CONFIRM	确认
+CONFIRMED	已确认
+CHANGE	切换
+SELECTED	已选择
+SELECT	选择
+ENGAGE	迎战
+CONTINUE	继续
+BEGIN PRACTICE	开始练习
+ENTER	回车
+GUIDE	指引
+RETRY	重试
+ERROR	错误
+RUNNING	运行中
+VICTORY	胜利
+DEFEATED	已消灭
+SPAWNED	已生成
+WAVE	敌人波次
+HP	生命
+BLOCKS	模块
+EMPTY	空
+ROBOT	机器人
+CONTROL	控制
+NAV	导航
+TIMER	计时
+KIT	装备
+SECONDS	秒
+SEC	秒
+IN	输入
+OUT	输出
+STOP	停止
+MOVE	移动
+ADDED	已添加
+ADD	添加
+RED	红色
+PINK	粉色
+CYAN	青色
+ORANGE	橙色
+GHOST	幽灵
+HITS	命中
+carry	搬运
+place	放置
+rotate	旋转
+look	观察
+cancel	取消
+launcher	发射器
+launch	发射
+recall	回收
+tablet	平板
+wire	连线
+replace	替换
+connect	连接
+blocks	模块
+machines	机器
+timer arrows	计时器增减键
+insert	插入
+remove	取下
+dock	插入机器人
+pack	装箱
+attach	装载
+unload	卸下
+unpack	展开
+remote	遥控器
+door	车门
+tailgate	后挡板
+open	打开
+close	关闭
+RESET VIEW	重置视图
+CIRCUIT / EDITOR	电路 / 编辑器
+FIELD REMOTE	战地遥控器
+ENGAGEMENT CONTROL	迎战控制
+WHITE: execution order	白线：执行顺序
+GOLD: information for an action	黄线：动作所需的参数
+replaces	替换
+TODO	待完成
+DONE	已完成
+LIGHT	车灯
+FAN	风扇
+AUX	辅助
+HAZ	双闪
+OIL	机油
+TEMP	温度
+FUEL	燃油
+A M M O   /   S E L E C T	弹药 / 选择
+AMMUNITION	弹药
+ALL	全部
+FireRateConsole	射速机
+AmmoSwitchMachine	弹药机
+UtilityTruck	运输车
+EquipmentRack	装备箱
+Low Poly Mountain	低模山地
+Fire control console	射击控制台
+Equipment tray	装备底板
+insert / remove tablet	插入 / 取下平板
+connect / replace wire	连接 / 替换连线
+add blocks / wire	添加模块 / 连线
+READY / INSERT TABLET	就绪 / 请插入平板
+CUSTOM	自定义
+Begin	开始
+AMMO switch machine	弹药切换机
+pack / attach / enter	装箱 / 装载 / 上车
+carry / pack / enter	搬运 / 装箱 / 上车
+AIM ONLY	只改变朝向
+MOVE TO TARGET	移动到目标
+DELAY NEXT ACTION	延后执行下一步
+Driver seat	驾驶座
+Passenger seat	副驾驶座
+Release steering wheel	松开方向盘
+Take steering wheel	握住方向盘
+Release handbrake	松开手刹
+Apply handbrake	拉起手刹
+Toggle headlights	开关车灯
+Toggle tailgate	开关后挡板
+FUEL	燃油
+RPM	转速
+LIGHTS	车灯
+GATE	后挡板
+Open door before entering	请先手动打开车门
+Stop vehicle / open door / clear exit	停车、打开车门并确保出口畅通
+MPH	英里/时
+Handbrake engaged / click the handbrake to release	手刹已拉起 / 请左键点击手刹释放
+Loading video...	视频加载中…
+Video unavailable / continue with the instructions	视频暂时无法播放 / 可阅读右侧说明继续
+
+DRONE BEACONS	无人机投放信标
+access the launch pad. Lift off and switch to drop view.	接入停机坪。按 Shift 起飞，再按 C 切到投弹视角。
+Drop A on white block 1. Fly to white block 2, select B and drop it.	将 A 投在白色方块 1 上。飞到白色方块 2 上方，用滚轮选 B，再投放。
+Press R and wait for the drone to land on the pad.	按 R 返航，等待无人机降落在停机坪上。
+Switch to drop view	切换到投弹视角
+Drop A on white block 1	将 A 投到白色方块 1
+Drop B on white block 2	将 B 投到白色方块 2
+Return the drone to the pad	让无人机返航并降落
+Drop A on block 1, then B on block 2.	先将 A 投到方块 1，再将 B 投到方块 2。
+access pad	接入停机坪
+climb / descend	上升 / 下降
+drop view	投弹视角
+fly	飞行

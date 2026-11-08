@@ -1,0 +1,6 @@
+Vehicle collision sounds: Crash Collision by qubodup, CC0
+https://opengameart.org/content/crash-collision
+Source: qubodup-crash.ogg (own stapler, lock and click recordings designed for racing-game collision).
+Heavy: complete collision sample, normalized.
+Light: 0.32-second onset excerpt, shortened tail with 100ms fade; no added metallic hit.
+Both converted to mono 44.1 kHz PCM.

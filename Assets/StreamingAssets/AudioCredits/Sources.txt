@@ -1,0 +1,12 @@
+Audio replacements
+All sources below are offered under CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Kenney Interface Sounds: https://kenney.nl/assets/interface-sounds
+Kenney Impact Sounds: https://kenney.nl/assets/impact-sounds
+muted.io Performance Cars: https://muted.io/performance-cars/
+Joseph SARDIN - Small airplane moving away (0501): https://bigsoundbank.com/small-airplane-moving-away-s0501.html
+Propeller aircraft uses an excerpt of the original WAV with a loop crossfade.
+Edits: mono conversion, 44.1 kHz PCM, gain normalization, trims, crossfades; Physical carry sounds use impact recordings without electronic layers. Engine start/stop are envelope edits of the engine recording, not separate starter recordings.
+
+Aurelon - Unlocking a metal box (CC0): https://freesound.org/people/Aurelon/sounds/698200/
+Used for carrying, pickup/place, packing, airdrop release/deploy/landing and the descending cargo texture loop. Trimmed, normalized and crossfaded from user-provided source.

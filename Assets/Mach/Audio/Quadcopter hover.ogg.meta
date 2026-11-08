@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 00700051918c42e7b801709c9d3bf775
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 0
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 1
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: "Big Slow Heavy Drone Hovering Idle Loop by qubodup, based on Sadiquecat. CC0. https://freesound.org/s/854382/"
+  assetBundleName: 
+  assetBundleVariant: 

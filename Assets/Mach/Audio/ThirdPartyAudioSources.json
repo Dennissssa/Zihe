@@ -1,0 +1,142 @@
+{
+  "Button": {
+    "pack": "Kenney Interface Sounds (CC0)",
+    "file": "click_003.ogg",
+    "layer": null
+  },
+  "Connect": {
+    "pack": "Kenney Interface Sounds (CC0)",
+    "file": "confirmation_002.ogg",
+    "layer": null
+  },
+  "Disconnect": {
+    "pack": "Kenney Interface Sounds (CC0)",
+    "file": "back_002.ogg",
+    "layer": null
+  },
+  "Cancel": {
+    "pack": "Kenney Interface Sounds (CC0)",
+    "file": "close_001.ogg",
+    "layer": null
+  },
+  "Error": {
+    "pack": "Kenney Interface Sounds (CC0)",
+    "file": "error_004.ogg",
+    "layer": null
+  },
+  "Pickup": {
+    "author": "Aurelon",
+    "title": "Unlocking a metal box",
+    "license": "CC0",
+    "source": "https://freesound.org/people/Aurelon/sounds/698200/",
+    "slice": "MetalBox_02.wav",
+    "edits": "Level adjustment and edge fades"
+  },
+  "Place": {
+    "author": "Aurelon",
+    "title": "Unlocking a metal box",
+    "license": "CC0",
+    "source": "https://freesound.org/people/Aurelon/sounds/698200/",
+    "slice": "MetalBox_14.wav",
+    "edits": "Level adjustment and edge fades"
+  },
+  "Pack": {
+    "author": "Aurelon",
+    "title": "Unlocking a metal box",
+    "license": "CC0",
+    "source": "https://freesound.org/people/Aurelon/sounds/698200/",
+    "slice": "MetalBox_05.wav",
+    "edits": "Level adjustment and edge fades"
+  },
+  "Unpack": {
+    "author": "Aurelon",
+    "title": "Unlocking a metal box",
+    "license": "CC0",
+    "source": "https://freesound.org/people/Aurelon/sounds/698200/",
+    "slice": "MetalBox_04.wav",
+    "edits": "Level adjustment and edge fades"
+  },
+  "Dock": {
+    "author": "Aurelon",
+    "title": "Unlocking a metal box",
+    "license": "CC0",
+    "source": "https://freesound.org/people/Aurelon/sounds/698200/",
+    "slice": "MetalBox_17.wav",
+    "edits": "Level adjustment and edge fades"
+  },
+  "Undock": {
+    "author": "Aurelon",
+    "title": "Unlocking a metal box",
+    "license": "CC0",
+    "source": "https://freesound.org/people/Aurelon/sounds/698200/",
+    "slice": "MetalBox_06.wav",
+    "edits": "Level adjustment and edge fades"
+  },
+  "Release": {
+    "author": "Aurelon",
+    "title": "Unlocking a metal box",
+    "license": "CC0",
+    "source": "https://freesound.org/people/Aurelon/sounds/698200/",
+    "slice": "MetalBox_07.wav",
+    "edits": "Level adjustment and edge fades"
+  },
+  "Truck engine loop": {
+    "pack": "muted.io Performance Cars (CC0)",
+    "file": "029-performance-cars-mutedio.wav",
+    "excerptSeconds": [
+      7,
+      10
+    ]
+  },
+  "EngineStart": {
+    "pack": "muted.io Performance Cars (CC0)",
+    "file": "029-performance-cars-mutedio.wav",
+    "excerptSeconds": [
+      7,
+      10
+    ]
+  },
+  "EngineStop": {
+    "pack": "muted.io Performance Cars (CC0)",
+    "file": "029-performance-cars-mutedio.wav",
+    "excerptSeconds": [
+      7,
+      10
+    ]
+  },
+  "Aircraft engine loop": {
+    "author": "Joseph SARDIN",
+    "license": "CC0",
+    "source": "https://bigsoundbank.com/small-airplane-moving-away-s0501.html",
+    "original": "0501.wav",
+    "excerptSeconds": [
+      1,
+      5
+    ],
+    "edits": "Mono 44.1kHz, normalize, loop crossfade"
+  },
+  "Deploy": {
+    "author": "Aurelon",
+    "title": "Unlocking a metal box",
+    "license": "CC0",
+    "source": "https://freesound.org/people/Aurelon/sounds/698200/",
+    "slice": "MetalBox_11.wav",
+    "edits": "Level adjustment and edge fades"
+  },
+  "Land": {
+    "author": "Aurelon",
+    "title": "Unlocking a metal box",
+    "license": "CC0",
+    "source": "https://freesound.org/people/Aurelon/sounds/698200/",
+    "slice": "MetalBox_18.wav",
+    "edits": "Level adjustment and edge fades"
+  },
+  "Parachute wind loop": {
+    "author": "Aurelon",
+    "title": "Unlocking a metal box",
+    "license": "CC0",
+    "source": "https://freesound.org/people/Aurelon/sounds/698200/",
+    "slice": "MetalBox_13.wav",
+    "edits": "Level adjustment and edge fades; crossfade loop, cargo handling texture rather than actual wind"
+  }
+}

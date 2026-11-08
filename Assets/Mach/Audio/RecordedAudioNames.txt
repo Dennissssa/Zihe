@@ -1,0 +1,19 @@
+Button
+Connect
+Disconnect
+Cancel
+Error
+Pickup
+Place
+Pack
+Unpack
+Dock
+Undock
+Release
+Truck engine loop
+EngineStart
+EngineStop
+Aircraft engine loop
+Deploy
+Land
+Parachute wind loop
